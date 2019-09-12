@@ -4,6 +4,3 @@ class Dog
     puts "woof!"
 end 
 
-fido = Dog.new
-fido.bark
-fido
